@@ -81,7 +81,7 @@
 				</li><li>
 					<a href='?module=JS Objects'><i class='fa fa-angle-double-right'></i>JS Objects[DZAKIYYAH NUR HAFIZHAH FACKHRI ]</a>
 				</li><li>
-					<a href='?module=JS Events'><i class='fa fa-angle-double-right'></i>JS Events[ENDRO WINDU NUGROHO ]</a>
+					<a href='?module=JS ><i class='fa fa-angle-double-right'></i>JS [ENDRO WINDU NUGROHO ]</a>
 				</li><li>
 					<a href='?module=JS Strings'><i class='fa fa-angle-double-right'></i>JS Strings[FARHAN AMALUDIN RISATYA  ]</a>
 				</li><li>
@@ -97,7 +97,7 @@
 				</li><li>
 					<a href='?module=JS Arrays'><i class='fa fa-angle-double-right'></i>JS Arrays[ GALIH ADI PRATAMA]</a>
 				</li><li>
-					<a href='?module=JS Array Methods'><i class='fa fa-angle-double-right'>	   </i>JS Array Methods[ 		]</a>
+					<a href="{{ route('jsnia') }}"><i class='fa fa-angle-double-right'></i>JS Nia Febriani[ Nia Febriani	]</a>
 				</li><li>
 					<a href='?module=JS Array Sort'><i class='fa fa-angle-double-right'>		  </i>JS Array Sort[	]</a>
 				</li><li>
@@ -105,7 +105,7 @@
 				</li><li>
 					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'>			</i>JS Syntax		[   ]</a>
 				</li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax</a>
+					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax</a> 
 				</li><li>
 					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax</a>
 				</li><li>
